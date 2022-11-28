@@ -1,7 +1,7 @@
 
 # Guvi-Tasks-Webcode-1
 
-Implemention the Nationalize API using async/await with fetch. 
+Implementing the Nationalize API using async/await with fetch. 
 
 ## Front-end Deployed URL: Netlify
 
